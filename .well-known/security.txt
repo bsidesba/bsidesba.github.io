@@ -1,0 +1,8 @@
+# Our security address
+Contact: mailto:security@bsidesba.sk
+
+# Our preferred languages
+Preferred-Languages: en
+
+# The URL of this file
+Canonical: https://bsidesba.sk/.well-known/security.txt

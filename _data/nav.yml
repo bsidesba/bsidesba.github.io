@@ -1,0 +1,28 @@
+- title: "Home"
+  href: "/"
+
+- title: "About"
+  subcategories:
+    - subtitle: "BSidesBA"
+      subhref: "/about"
+    - subtitle: "Security BSides"
+      subhref: "/about/bsides"
+    - subtitle: "Code of Conduct"
+      subhref: "/about/code-of-conduct"
+    - subtitle: "Contact Us"
+      subhref: "/about/contact"
+
+#- title: "CFP"
+#  href: "/"
+
+#- title: "Speakers"
+#  href: "/"
+
+#- title: "Venue"
+#  href: "/"
+
+#- title: "Schedule"
+#  href: "/"
+
+#- title: "Tickets"
+#  href: "/"
