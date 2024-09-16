@@ -8,13 +8,13 @@ description: >
 
 # Only use this if you are serving your site via Github Pages
 github:
-  url: "http://127.0.0.1:4000"
+  url: "https://bsidesba.sk"
 
 header: yes
-header_sm: images/banner-small.jpg
-header_med: images/banner-med.jpg
-header_large: images/banner-large.jpg
-header_xl: images/banner-xl.jpg
+header_sm: images/banner-small.png
+header_med: images/banner-med.png
+header_large: images/banner-large.png
+header_xl: images/banner-xl.png
 
 
 # Exclude our ruby stuff
