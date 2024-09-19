@@ -37,7 +37,7 @@ $global-font-size: 100% !default;
   // If the base font size is a %, then multiply it by 16px
   // This is because 100% font size = 16px in most all browsers
   @if unit($base) == '%' {
-    $base: (calc($base / 100%)) * 16px;
+    $base: ($base / 100%) * 16px;
   }
 
   @if $count == 1 {

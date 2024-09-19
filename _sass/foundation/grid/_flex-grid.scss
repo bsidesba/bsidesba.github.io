@@ -82,7 +82,7 @@
   // Gutters
   @if type-of($gutter) == 'map' {
     @each $breakpoint, $value in $gutter {
-      $padding: calc(rem-calc($value) / 2);
+      $padding: rem-calc($value) / 2;
 
       @include breakpoint($breakpoint) {
         padding-left: $padding;
@@ -91,7 +91,7 @@
     }
   }
   @else if type-of($gutter) == 'number' and strip-unit($gutter) > 0 {
-    $padding: calc(rem-calc($gutter) / 2);
+    $padding: rem-calc($gutter) / 2;
     padding-left: $padding;
     padding-right: $padding;
   }
@@ -113,7 +113,7 @@
   flex-wrap: wrap;
 
   > #{$selector} {
-    $pct: percentage(calc(1/$n));
+    $pct: percentage(1/$n);
 
     flex: 0 0 $pct;
     max-width: $pct;

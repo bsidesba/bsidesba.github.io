@@ -27,7 +27,7 @@
       $width: percentage($columns);
     }
     @else {
-      $width: percentage(calc($columns / $grid-column-count));
+      $width: percentage($columns / $grid-column-count);
     }
   }
 
@@ -63,7 +63,7 @@
   // Gutters
   @if type-of($gutter) == 'map' {
     @each $breakpoint, $value in $gutter {
-      $padding: calc(rem-calc($value) / 2);
+      $padding: rem-calc($value) / 2;
 
       @include breakpoint($breakpoint) {
         padding-left: $padding;
@@ -72,7 +72,7 @@
     }
   }
   @else if type-of($gutter) == 'number' and strip-unit($gutter) > 0 {
-    $padding: calc(rem-calc($gutter) / 2);
+    $padding: rem-calc($gutter) / 2;
     padding-left: $padding;
     padding-right: $padding;
   }
