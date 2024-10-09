@@ -1,10 +1,10 @@
 # Site settings
-name: BSidesBA
+name: BSides Bratislava
 author: BSidesBA
 
-keywords: bsidesba, bsides bratislava, security bsides, security b-sides, infosec, conference, security, bratislava
+keywords: bsidesba, bsides bratislava, security bsides, security b-sides, infosec, conference, security, bratislava, informacna bezpecnost
 description: >
-  BSidesBA is a community-driven information security conference in Bratislava.
+  BSides Bratislava is a community-driven information security conference. Next iteration will be held on March 15th, 2025 at Faculty of Electrical Engineering and Information Technology of Slovak Technical University.
 
 # Only use this if you are serving your site via Github Pages
 github:
