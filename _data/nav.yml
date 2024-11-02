@@ -12,8 +12,8 @@
     - subtitle: "Contact Us"
       subhref: "/about/contact"
 
-#- title: "CFP"
-#  href: "/"
+- title: "CFP"
+  external: "https://www.papercall.io/bsidesba2025"
 
 #- title: "Speakers"
 #  href: "/"
