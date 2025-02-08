@@ -11,15 +11,17 @@
       subhref: "/about/code-of-conduct"
     - subtitle: "Contact Us"
       subhref: "/about/contact"
+- title: "Tickets"
+  external: "https://www.eventbrite.com/e/bsides-bratislava-tickets-1146840644239"
 
-- title: "CFP"
-  external: "https://www.papercall.io/bsidesba2025"
+#- title: "CFP"
+#  external: "https://www.papercall.io/bsidesba2025"
 
 #- title: "Speakers"
 #  href: "/"
 
-#- title: "Venue"
-#  href: "/"
+- title: "Venue"
+  external: "https://maps.app.goo.gl/n4BMfsLP18MtYQaE8"
 
 #- title: "Schedule"
 #  href: "/"
