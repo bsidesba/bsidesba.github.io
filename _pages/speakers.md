@@ -34,6 +34,46 @@ Abstract
 <br>
 <hr>
 
+## <b>Impulse 31337: From Red Teaming to Hacking Quake</b>
+
+### Mateusz Kocielski
+<img src="/images/2025/mateusz.jpg" title="Mateusz Kocielski" class="center" width=200px style="border:0;">
+
+### An exciting adventure of a red-teaming engagement with a tiny attack surface led us to hacking a Quake World server. We dove into old school Quake’s code, uncovered vulnerabilities, and used them to achieve our goals. This fun and beginner-friendly talk is packed with unexpected twists, frags and plenty of laughs, all leading to the ultimate win: gaining a shell!
+<br>
+
+### For years Mateusz has been professionally involved in IT security. He is a member of the LogicalTrust.net team, where he conducts penetration tests and security research. He has participated in security analyses of several hundred mobile and web applications. He has presented at many events. He has found bugs in software such as Quake, PHP, Apache, Microsoft, OpenSSH, FreeBSD, NetBSD, and others. He has contributed bits to Open Source projects, including PHP and NetBSD.
+
+<br>
+<hr>
+
+## <b>Summary of 200+ pentests: what to watch out for</b>
+
+### Adam Borzymowski
+<img src="/images/2025/adam.jpg" title="Adam Borzymowski" class="center" width=200px style="border:0;">
+
+### Penetration testing isn’t just about finding vulnerabilities—it’s about understanding your systems, improving resilience, and recognizing patterns in security failures. Drawing from over 200 professional pentests, this session explores key lessons learned, including:
+
+- ### Common misconceptions between penetration testing, audits, and red teaming.
+- ### The top vulnerabilities (e.g., CWE-200, CWE-79) and their real-world implications.
+- ### Best practices for conducting effective pentests, from planning to reporting.
+- ### Technical insights: examples of misconfigured headers, cache issues, and SQL injection.
+
+### This talk combines technical depth and practical advice, ideal for security professionals, developers, and IT managers aiming to strengthen their cybersecurity strategies.
+
+<br>
+### Hi, I’m Adam, and:
+
+- ### I play CTFs because it’s fun!
+- ### I founded the 17 53c Association (and Foundation!) because I could!
+- ### I work at LogicalTrust because I want to—and I love talking about cybersecurity.
+- ### In my free time, I try to break some apps—just for fun!
+
+### For years, I’ve been fascinated by the evolution of cybersecurity. What started as a keen interest in IT security has developed into a dedicated pursuit of knowledge and skill refinement in this field. Capture The Flag (CTF) competitions offer me the chance to apply my expertise in practical scenarios, improve my skills, and exchange ideas with fellow professionals.
+
+<br>
+<hr>
+
 ## <b>Closing Keynote: Ransomware-cybercriminals in the darknet - a live visit</b>
 
 ### Tobias Schrödel 
