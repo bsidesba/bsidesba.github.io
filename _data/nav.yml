@@ -17,8 +17,8 @@
 #- title: "CFP"
 #  external: "https://www.papercall.io/bsidesba2025"
 
-#- title: "Speakers"
-#  href: "/"
+- title: "Speakers"
+  href: "/speakers"
 
 - title: "Venue"
   external: "https://maps.app.goo.gl/n4BMfsLP18MtYQaE8"
