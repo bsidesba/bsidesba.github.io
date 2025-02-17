@@ -86,3 +86,18 @@ Abstract
 <br>
 <hr>
 
+## <b>When Trust Costs Millions: A Deep Dive into a Devastating BEC Fraud</b>
+
+### Ján Andraško
+<img src="/images/2025/jan.png" title="Ján Andraško" class="center" width=200px style="border:0;">
+
+### Business Email Compromise (BEC) scams have become one of the most financially devastating cyber threats, with attackers perfecting their craft to deceive even the most security-conscious organizations. In this talk, we'll dissect a staggering case where a fraudulent invoice, worth millions, slipped through the cracks, resulting in a massive payout to cybercriminals.
+<br>
+
+### Ján Andraško is the co-founder and SOC manager at Binary Confidence, a cybersecurity firm he helped establish in 2014. With over 15 years of hands-on experience in incident detection and response, he specializes in protecting organizations from evolving cyber threats.
+
+### Leading a team of SOC analysts, Ján focuses on proactive monitoring, threat mitigation, and incident resolution. His career spans multiple roles within Security Operations Centers, including security administrator, change manager, and SOC leader, giving him a well-rounded perspective on cyber defense.
+
+<br>
+<hr>
+
