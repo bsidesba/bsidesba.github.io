@@ -86,6 +86,24 @@ Abstract
 <br>
 <hr>
 
+## <b>Tales from the Crypt(ography)</b>
+
+### David Szili
+<img src="/images/2025/david.png" title="David Szili" class="center" width=200px style="border:0;">
+
+### The terms “rolling your own encryption” or “in-house built cryptography” should give everyone the chills. But what if a developer uses all the right tools and libraries without understanding the building blocks or cryptography in general? Just because you had Argon2, bcrypt, scrypt, AES, RSA, or any other ingredients of the cryptography acronym soup in your code, it does not make your application secure! I, the Crypt Keeper (I promise, I will do my best to stuff as many bad - or shall I say, horrible? XD - Tales from the Crypt puns as possible into the talk), will be your guide in this journey, and I will bring you fresh cryptographic horror stories and examples from 2024 to scare you! :D
+
+### From an open-source project used by millions through proprietary Java code to a Fortune 500 developer company’s software product, we will look at the mistakes and sins of the programmers to demonstrate the truth in the common (although not very elaborate) saying in the industry; “cryptography is hard!” We will try to understand why these issues were still a thing in 2024 (and most likely, they will still exist in 2025) and what we can do about them. Also, as every coin has two sides, so we need to talk about the fact that defenders can also leverage these mistakes to their advantage. Whether they are fighting ransomware or attempting to decrypt C2 communications, breaking weak cryptography can be the key to success, so practical cryptanalysis is a useful skill to have.
+
+### I will try to keep the math part at bay, but I make no promises! After all, you came to the Keeper for the fear and trembling, right?
+<br>
+### David Szili is a managing partner at Alzette Information Security, a consulting company based in Luxembourg. He is also an instructor at SANS Institute, teaching FOR572: Advanced Network Forensics. David has more than eight years of professional experience in penetration testing, red teaming, vulnerability assessment, vulnerability management, security monitoring, security architecture design, incident response, digital forensics, and software development.
+
+### David has two master’s degrees, one in computer engineering and one in networks and telecommunication, and he has a bachelor’s degree in electrical engineering. He holds several IT security certifications such as GSEC, GCFE, GCED, GCIA, GCIH, GMON, GCDA, GNFA, GPYC, GMOB, CCSK, OSCP, OSWP, and CEH. David regularly speaks at international conferences like BruCON, Hack.lu, Hacktivity, x33fcon, Nuit du Hack, BSides London, BSides Munich, BSides Stuttgart, BSidesLjubljana, BSidesBUD, Pass the SALT, Security Session, SANS @Night Talks and he is a member of the organizer team of the Security BSides Luxembourg conference. He occasionally blogs about information security at [jumpespjump.blogspot.com](https://jumpespjump.blogspot.com/).
+
+<br>
+<hr>
+
 ## <b>When Trust Costs Millions: A Deep Dive into a Devastating BEC Fraud</b>
 
 ### Ján Andraško
