@@ -22,24 +22,6 @@ Abstract
 <br>
 <hr>
 
-## <b>Hakuin: Injecting Brains Into Blind SQL Injection</b>
-
-### Jakub Pružinec
-<img src="/images/2025/jakub.jpg" title="Jakub Pružinec" class="center" width=200px style="border:0;">
-
-### SQL Injection (SQLI) is a pervasive web attack where malicious input is used to dynamically build SQL queries in a way that tricks the DB engine to perform unintended harmful operations. Among many potential exploitations, the hacker may opt to exfiltrate the application database (DB). The exfiltration process is straightforward when the web application responds to injected queries with its data. In case the content is not exposed, the hacker can still deduce it using Blind SQLI (BSQLI), an inference technique based on response differences or time delays. Unfortunately, a common drawback of BSQLI is its low inference rate (one bit per request), which severely limits the volume of data extracted.
-
-### This research proposes Hakuin, a novel approach based on Machine Learning and statistics to optimize BSQLI. To effectively infer DB schemas, Hakuin uses a probabilistic language model trained on millions of tables and columns extracted from Stack Exchange questions. To infer DB content (rows) in all its diversity, Hakuin utilizes several strategies, most importantly adaptive language models and opportunistic string guessing. Maximal efficiency is assured by evaluating all supported strategies and dynamically choosing the best one. Compared to other public BSQLI exfiltration tools, our method offers a significant performance improvement: Hakuin is about 6 times faster in exfiltrating DB schemas, up to 3.2 times faster in exfiltrating normal DB columns, and up to 26 times faster in exfiltrating columns with limited values.
-
-### The presentation describes the internal design of Hakuin and the challenges we faced in implementing our ideas. Afterwards, we show our benchmarking results and compare Hakuin with 3  industry standard BSQLI tools. Finally, we do a live demo showing how Hakuin can quickly exfiltrate a DB schema and content from a vulnerable web application.
-
-<br>
-
-### Jakub Pružinec is a cybersecurity researcher at Nanyang Technological University, Singapore. He focuses on OS security, reverse engineering, malware analysis, and recently web application security. Aside from research, his interests include painting and Muay Thai, effectively covering traditional arts, martial arts, and the state of the art.
-
-<br>
-<hr>
-
 ## <b>Impulse 31337: From Red Teaming to Hacking Quake</b>
 
 ### Mateusz Kocielski
@@ -49,6 +31,24 @@ Abstract
 <br>
 
 ### For years Mateusz has been professionally involved in IT security. He is a member of the LogicalTrust.net team, where he conducts penetration tests and security research. He has participated in security analyses of several hundred mobile and web applications. He has presented at many events. He has found bugs in software such as Quake, PHP, Apache, Microsoft, OpenSSH, FreeBSD, NetBSD, and others. He has contributed bits to Open Source projects, including PHP and NetBSD.
+
+<br>
+<hr>
+
+## <b>Hakuin: Injecting Brains Into Blind SQL Injection</b>
+
+### Jakub Pružinec
+<img src="/images/2025/jakub.jpg" title="Jakub Pružinec" class="center" width=200px style="border:0;">
+
+### Hackers excel at analysis, developers at building tools. The overlap between the two is where impact happens.
+
+### Hakuin is a next-generation Blind SQL Injection (BSQLI) automation framework. By leveraging language models, statistics, and bunch of other techniques, Hakuin dumps databases 3x, 6x, or even 26x faster than existing BSQLI tools. While the ideas behind Hakuin are exciting, it is the framework's fully customizable design that allows hackers to effortlessly exploit hard-to-reach BSQLI vulnerabilities.
+
+### In this talk, we'll dive into the internals of Hakuin, craft custom exploits for tricky vulnerabilities, and discuss the three thousand refactors that have shaped the framework into its current form. Finally, we'll explore the enormous, yet often overlooked, potential of security tool development.
+
+<br>
+
+### Jakub Pružinec is a cybersecurity researcher at Nanyang Technological University, Singapore. He focuses on OS security, reverse engineering, malware analysis, and recently web application security. Aside from research, his interests include painting and Muay Thai, effectively covering traditional arts, martial arts, and the state of the art.
 
 <br>
 <hr>
