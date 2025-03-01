@@ -74,7 +74,7 @@ The following schedule is still subject to changes.
     </tr>
     <tr class="General_items">
         <td markdown="span" align="center">**10:25**</td>
-        <td markdown="span" align="center" colspan=3> Coffe Break (15 minutes) ☕ </td>
+        <td markdown="span" align="center" colspan=3> Coffee Break (15 minutes) ☕ </td>
     </tr>
     <tr class="General_items">
         <td markdown="span" align="center">**10:40**</td>
@@ -98,7 +98,7 @@ The following schedule is still subject to changes.
     </tr>
     <tr class="General_items">
         <td markdown="span" align="center">**14:50**</td>
-        <td markdown="span" align="center" colspan=3> Coffe Break (15 minutes) ☕ </td>
+        <td markdown="span" align="center" colspan=3> Coffee Break (15 minutes) ☕ </td>
     </tr>
     <tr class="General_items">
         <td markdown="span" align="center">**15:05**</td>
