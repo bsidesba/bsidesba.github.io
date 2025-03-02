@@ -23,8 +23,8 @@
 - title: "Venue"
   external: "https://maps.app.goo.gl/n4BMfsLP18MtYQaE8"
 
-#- title: "Schedule"
-#  href: "/"
+- title: "Schedule"
+  href: "/schedule"
 
 #- title: "Tickets"
 #  href: "/"

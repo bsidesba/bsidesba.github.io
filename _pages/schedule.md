@@ -57,15 +57,15 @@ The following schedule is still subject to changes.
 </thead>
 <tbody>
     <tr class="General_items">
-        <td markdown="span" align="center" >**8:30**</td>
+        <td markdown="span" align="center" >**08:30**</td>
         <td markdown="span" align="center" colspan=3> **Registration Opens**</td>
     </tr>
     <tr class="General_items">
-        <td markdown="span" align="center">**9:00**</td>
+        <td markdown="span" align="center">**09:00**</td>
         <td markdown="span" align="center" colspan=3> Opening Remarks</td>
     </tr>
     <tr class="General_items">
-        <td markdown="span" align="center">**9:10**</td>
+        <td markdown="span" align="center">**09:10**</td>
         <td markdown="span" align="center" colspan=3> **Summary of 200+ pentests: what to watch out for - Adam Borzymowski**</td>
     </tr>
     <tr class="General_items">
