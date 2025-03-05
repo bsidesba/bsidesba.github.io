@@ -78,7 +78,7 @@ The following schedule is still subject to changes.
     </tr>
     <tr class="General_items">
         <td markdown="span" align="center">**10:40**</td>
-        <td markdown="span" align="center" colspan=3> **Hakuin: Injecting Brains Into Blind SQL Injection - Jakub Pružinec** </td>
+        <td markdown="span" align="center" colspan=3> **One Tool to Dump Them All: On Blind SQL Injection and Development in Security - Jakub Pružinec** </td>
     </tr>
     <tr class="General_items">
         <td markdown="span" align="center">**11:20**</td>

@@ -35,7 +35,7 @@ Abstract
 <br>
 <hr>
 
-## <b>Hakuin: Injecting Brains Into Blind SQL Injection</b>
+## <b>One Tool to Dump Them All: On Blind SQL Injection and Development in Security</b>
 
 ### Jakub Pružinec
 <img src="/images/2025/jakub.jpg" title="Jakub Pružinec" class="center" width=200px style="border:0;">
