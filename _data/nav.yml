@@ -26,5 +26,5 @@
 - title: "Schedule"
   href: "/schedule"
 
-#- title: "Tickets"
-#  href: "/"
+- title: "CTF"
+  external: "https://bsidesba.ctfd.io/"
