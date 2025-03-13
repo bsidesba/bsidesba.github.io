@@ -106,7 +106,7 @@ The following schedule is still subject to changes.
     </tr>
     <tr class="General_items">
         <td markdown="span" align="center">**15:40**</td>
-        <td markdown="span" align="center" colspan=3> **Ransomware-cybercriminals in the darknet - a live visit (Closing Keynote) - Tobias Schrödel** </td>
+        <td markdown="span" align="center" colspan=3> **From cybercriminals and illegal online shops (Closing Keynote) - Tobias Schrödel** </td>
     </tr>
     <tr class="General_items">
         <td markdown="span" align="center">**16:30**</td>
